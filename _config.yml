@@ -1,11 +1,11 @@
 # Site settings
-author: Juha Penttilä
-title: 
+author: Juha Penttilae
+title: Juha's blog
 header-img: img/home-bg.png
 email: juha.ea.penttila@gmail.com
-copyright_name: Juha Penttilä
+copyright_name: Juha Penttilae
 description: > # this means to ignore newlines until "baseurl:"
-  
+  juhablog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Juhagit
